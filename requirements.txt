@@ -1,0 +1,41 @@
+# Whisper Large-v3 Transcription System Requirements
+# Tested and working configuration for Arabic/English transcription
+# 
+# INSTALLATION ORDER (IMPORTANT):
+# 1. Install PyTorch with CUDA 12.1 support FIRST
+# 2. Install faster-whisper (includes CTranslate2)
+# 3. Install ONNX Runtime GPU
+# 4. Install audio processing libraries
+# 5. Install supporting utilities
+
+# PyTorch with CUDA 12.1 support - INSTALL FIRST
+--index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Whisper components - INSTALL SECOND
+faster-whisper>=1.0.0
+ctranslate2>=4.0.0
+
+# ONNX Runtime for GPU acceleration - INSTALL THIRD
+onnxruntime-gpu>=1.15.0
+
+# Audio processing libraries - INSTALL FOURTH
+librosa>=0.10.0
+soundfile>=0.12.0
+scipy>=1.10.0
+av>=10.0.0
+
+# Supporting utilities - INSTALL LAST
+huggingface-hub>=0.16.0
+tokenizers>=0.13.0
+tqdm>=4.65.0
+numpy>=1.24.0,<2.3.0
+numba>=0.57.0
+
+# Optional visualization
+matplotlib>=3.7.0
+
+# Optional: Real-time audio capture
+# pyaudio>=0.2.11  # Uncomment if needed for microphone input
