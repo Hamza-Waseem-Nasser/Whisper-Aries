@@ -1,0 +1,5 @@
+{
+  "model": "base",
+  "device": "cuda",
+  "compute_type": "int8"
+}
