@@ -1,0 +1,81 @@
+{
+  "segments": [
+    {
+      "text": "Next time you watch the news, notice how the anchors exaggerate their mouth movement.",
+      "start": 0.0,
+      "end": 4.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "There's a good reason for this. Their job is to speak as clearly as possible.",
+      "start": 4.64,
+      "end": 8.88,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "And I'll show you a simple drill to help you do that too. All you need is a pen.",
+      "start": 8.88,
+      "end": 13.28,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Practicing this quick drill regularly will train you to be more articulate with little effort.",
+      "start": 13.28,
+      "end": 18.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Place a pen between your teeth and read a paragraph from a book out loud,",
+      "start": 18.64,
+      "end": 22.56,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "focusing on pronouncing each sound clearly. Then read it again without the pen.",
+      "start": 22.56,
+      "end": 28.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "There will be a noticeable improvement in your enunciation.",
+      "start": 28.0,
+      "end": 31.2,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Clearly articulating your words avoids the risk of miscommunication and lost engagement,",
+      "start": 31.56,
+      "end": 36.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "and it makes it easy and pleasurable to listen to you.",
+      "start": 36.9,
+      "end": 39.38,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Do this regularly, and you'll reap the benefits.",
+      "start": 39.54,
+      "end": 41.98,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    }
+  ],
+  "metadata": {
+    "audio_file": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\tmpoc0h3lxh\\example.mp3",
+    "pipeline_version": "1.0.0",
+    "confidence_threshold": 0.7,
+    "language": "auto",
+    "total_segments": 10
+  }
+}

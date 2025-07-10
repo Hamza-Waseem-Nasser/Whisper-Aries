@@ -1,0 +1,319 @@
+{
+  "segments": [
+    {
+      "text": "صباح الخير",
+      "start": 16.75,
+      "end": 17.91,
+      "speaker": "SPEAKER_01",
+      "confidence": 1.0
+    },
+    {
+      "text": "صباح النور",
+      "start": 17.91,
+      "end": 20.15,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أهلاً وسهلاً",
+      "start": 20.15,
+      "end": 21.75,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "جواز السفر من فضلك",
+      "start": 22.27,
+      "end": 23.85,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أهلاً بك تفضلي",
+      "start": 23.85,
+      "end": 25.75,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "أين تأشيرة الدخول؟",
+      "start": 25.75,
+      "end": 29.45,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.975314486676584
+    },
+    {
+      "text": "لحظة تفضلي",
+      "start": 30.17,
+      "end": 31.43,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "هل لديك حجز فندق؟",
+      "start": 31.43,
+      "end": 35.96,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9386502420452019
+    },
+    {
+      "text": "نعم تفضلي",
+      "start": 35.96,
+      "end": 37.16,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "كم يوماً ستقيم في بيروت؟",
+      "start": 37.16,
+      "end": 42.47,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9723752812942796
+    },
+    {
+      "text": "سأقيم هنا أسبوعاً إن شاء الله",
+      "start": 42.47,
+      "end": 44.57,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو سمحت",
+      "start": 44.57,
+      "end": 46.25,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ضع أصابع يدك هنا",
+      "start": 46.25,
+      "end": 48.31,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حاضر",
+      "start": 48.31,
+      "end": 49.43,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.8519138685702539
+    },
+    {
+      "text": "لو سمحت انظر إلى الكاميرا",
+      "start": 49.43,
+      "end": 57.74,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حاضر",
+      "start": 57.74,
+      "end": 58.78,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لا تتحرك من فضلك",
+      "start": 58.78,
+      "end": 61.44,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9760263527115252
+    },
+    {
+      "text": "تمام",
+      "start": 61.44,
+      "end": 65.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "تفضل",
+      "start": 65.25,
+      "end": 65.99,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا الجواز والتأشيرة وحجز الفندق",
+      "start": 65.99,
+      "end": 69.97,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "مرحبا بكم في لبنان",
+      "start": 69.97,
+      "end": 75.18,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا جزيلا",
+      "start": 75.18,
+      "end": 76.4,
+      "speaker": "SPEAKER_02",
+      "confidence": 0.9361294257747869
+    },
+    {
+      "text": "صباح الخير",
+      "start": 76.4,
+      "end": 91.23,
+      "speaker": "SPEAKER_01",
+      "confidence": 0.9706889988580215
+    },
+    {
+      "text": "صباح النور",
+      "start": 91.23,
+      "end": 93.45,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أهلا وسهلا",
+      "start": 93.45,
+      "end": 94.93,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "جواز السفر من فضلك",
+      "start": 94.93,
+      "end": 97.17,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أهلا بك تفضلي",
+      "start": 97.17,
+      "end": 99.07,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "أين تأشيرة الدخول؟",
+      "start": 99.07,
+      "end": 103.48,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9567833634969679
+    },
+    {
+      "text": "لحظة تفضلي",
+      "start": 103.48,
+      "end": 104.74,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "هل لديك حجز فندق؟",
+      "start": 104.74,
+      "end": 109.19,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9637076461440681
+    },
+    {
+      "text": "نعم تفضلي",
+      "start": 109.19,
+      "end": 110.45,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "كم يوما ستقيم في بيروت؟",
+      "start": 110.45,
+      "end": 115.78,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9635250192241819
+    },
+    {
+      "text": "سأقيم هنا أسبوعا إن شاء الله",
+      "start": 115.78,
+      "end": 117.88,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو سمحت ضع أصابع يدك هنا",
+      "start": 117.88,
+      "end": 121.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حاضر",
+      "start": 121.64,
+      "end": 122.74,
+      "speaker": "SPEAKER_02",
+      "confidence": 0.9421346948699337
+    },
+    {
+      "text": "لو سمحت انظر إلى الكاميرا",
+      "start": 122.74,
+      "end": 131.17,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حاضر",
+      "start": 131.17,
+      "end": 132.13,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لا تتحرك من فضلك",
+      "start": 132.13,
+      "end": 134.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام",
+      "start": 134.77,
+      "end": 138.55,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "تفضل هذا الجواز والتأشيرة وحجز الفندق",
+      "start": 138.55,
+      "end": 143.27,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "مرحبا بكم في لبنان",
+      "start": 143.27,
+      "end": 148.5,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا جزيلا",
+      "start": 148.5,
+      "end": 149.68,
+      "speaker": "SPEAKER_02",
+      "confidence": 0.9259564593447455
+    },
+    {
+      "text": "لا تنسوا الاعجاب بالفيديو والاشتراك في القناة",
+      "start": 152.12,
+      "end": 155.18,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "تشجيعا لنا لنستمر بنشر المزيد ان شاء الله",
+      "start": 155.18,
+      "end": 158.48,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    }
+  ],
+  "metadata": {
+    "audio_file": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\tmplzagfl62\\Arabic Conversation.mp3",
+    "pipeline_version": "1.0.0",
+    "confidence_threshold": 0.7,
+    "language": "auto",
+    "total_segments": 44
+  }
+}

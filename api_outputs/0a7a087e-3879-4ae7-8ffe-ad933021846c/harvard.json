@@ -1,0 +1,53 @@
+{
+  "segments": [
+    {
+      "text": "The stale smell of old beer lingers.",
+      "start": 0.91,
+      "end": 3.59,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "It takes heat to bring out the odor.",
+      "start": 4.33,
+      "end": 6.19,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "A cold dip restores health and zest.",
+      "start": 7.03,
+      "end": 9.35,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "A salt pickle tastes fine with ham.",
+      "start": 9.97,
+      "end": 12.07,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Tacos al pastor are my favorite.",
+      "start": 12.67,
+      "end": 14.35,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "A zestful food is the hot cross bun.",
+      "start": 15.11,
+      "end": 17.51,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    }
+  ],
+  "metadata": {
+    "audio_file": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\tmpbrl7oflq\\harvard.wav",
+    "pipeline_version": "1.0.0",
+    "confidence_threshold": 0.7,
+    "language": "en",
+    "total_segments": 6
+  }
+}

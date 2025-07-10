@@ -1,0 +1,23 @@
+1
+00:00:00,910 --> 00:00:03,589
+[SPEAKER_00] The stale smell of old beer lingers.
+
+2
+00:00:04,330 --> 00:00:06,190
+[SPEAKER_00] It takes heat to bring out the odor.
+
+3
+00:00:07,030 --> 00:00:09,349
+[SPEAKER_00] A cold dip restores health and zest.
+
+4
+00:00:09,970 --> 00:00:12,070
+[SPEAKER_00] A salt pickle tastes fine with ham.
+
+5
+00:00:12,669 --> 00:00:14,349
+[SPEAKER_00] Tacos al pastor are my favorite.
+
+6
+00:00:15,109 --> 00:00:17,510
+[SPEAKER_00] A zestful food is the hot cross bun.

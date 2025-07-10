@@ -13,15 +13,27 @@ from pathlib import Path
 from collections import defaultdict
 import os
 
-# Initialize OpenAI client for v1.x API
-client = openai.OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+# Initialize OpenAI client for v1.x API - handle missing API key gracefully
+try:
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        print("⚠️ OPENAI_API_KEY not set. LLM analysis will be skipped.")
+        client = None
+    else:
+        client = openai.OpenAI(api_key=api_key)
+except Exception as e:
+    print(f"⚠️ OpenAI client initialization failed: {e}")
+    client = None
 
 PROMPT_TEMPLATE = """
-You are an AI meeting assistant. Given the following transcript (with speaker labels and timestamps), please:
-1. Summarize the main points and decisions.
-2. List action items.
-3. For each speaker, report how much they spoke (in seconds and as a percentage).
-4. Highlight any important questions or issues raised.
+You are an expert AI meeting and interview assistant. Given the following transcript (with speaker labels and timestamps), your tasks are:
+1. Write a detailed summary of the conversation, focusing on key points, decisions, and any important context.
+2. Identify and list all action items, tasks, or follow-ups discussed.
+3. For each speaker, report how much they spoke (in seconds and as a percentage), and summarize their main contributions or questions.
+4. Highlight any important questions, issues, or topics raised.
+5. If this is an interview, extract candidate strengths, weaknesses, and any hiring recommendations.
+6. If this is a business meeting, extract decisions, blockers, and next steps.
+7. Make your output as detailed and structured as possible, using bullet points and sections where appropriate.
 
 Transcript:
 {transcript}
@@ -57,13 +69,16 @@ def speaker_stats(segments):
 
 # Updated for openai>=1.0.0
 def call_openai(prompt, model="gpt-4o"):
+    if not client:
+        raise Exception("OpenAI client not initialized. Please set OPENAI_API_KEY environment variable.")
+    
     response = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", "content": "You are an AI meeting assistant."},
+            {"role": "system", "content": "You are an expert AI meeting and interview assistant. Always provide detailed, structured, and actionable insights for interviews, business meetings, and conversations."},
             {"role": "user", "content": prompt}
         ],
-        max_tokens=2048,
+        max_tokens=8192,  # Increased for more detailed output
         temperature=0.3,
     )
     return response.choices[0].message.content

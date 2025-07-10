@@ -1,0 +1,2405 @@
+{
+  "segments": [
+    {
+      "text": "السلام عليكم. عليكم السلام.",
+      "start": 16.05,
+      "end": 21.78,
+      "speaker": "SPEAKER_01",
+      "confidence": 1.0
+    },
+    {
+      "text": "الله يعطيك العافية حمزة. الله يعطيك يا رب. كيف صحتك? تمام",
+      "start": 21.78,
+      "end": 26.28,
+      "speaker": null,
+      "confidence": 0.517929305846846
+    },
+    {
+      "text": "الحمد لله. كيف امورك? والله في خير. نرضى عليك. الحمد لله.",
+      "start": 26.28,
+      "end": 30.78,
+      "speaker": null,
+      "confidence": 0.5043909029497856
+    },
+    {
+      "text": "الله يعطيك العافية. الله يعطيك يا رب. طيب. قطيني دقيقة",
+      "start": 30.78,
+      "end": 76.51,
+      "speaker": "SPEAKER_01",
+      "confidence": 1.0
+    },
+    {
+      "text": "واخو معك ماشي? اقل من دقيقة ان شاء الله. خذ راحتك. طيب حمزة",
+      "start": 76.51,
+      "end": 127.08,
+      "speaker": "SPEAKER_01",
+      "confidence": 1.0
+    },
+    {
+      "text": "دعونا نبدأ بمعرفة نفسك",
+      "start": 127.08,
+      "end": 131.08,
+      "speaker": null,
+      "confidence": 0.5972318845886256
+    },
+    {
+      "text": "قبل أن نتحدث عنك",
+      "start": 131.08,
+      "end": 138.08,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حمزة وسيم",
+      "start": 138.08,
+      "end": 141.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فرش جراديوت",
+      "start": 141.08,
+      "end": 143.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خريج AI & Robotics",
+      "start": 143.08,
+      "end": 145.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الثاني على الدفعة",
+      "start": 145.08,
+      "end": 147.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "برحلتي بالجامعة كنت دائما مهتم بمجال المشاكل المتعلمة والتعلم الداخلي",
+      "start": 147.08,
+      "end": 152.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "و بنهاية بعد التخرج و مع انضمامي لتدريب يونيهانز",
+      "start": 152.08,
+      "end": 157.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "صرت أتوجه أكثر لبناء الـ agentic AI",
+      "start": 157.58,
+      "end": 161.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو خلنا نقول العالم الأللمز",
+      "start": 161.08,
+      "end": 163.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "و اشتغلت على مشاريع بسيطة في مجال الـ agentic AI",
+      "start": 163.08,
+      "end": 168.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "و حاليا شغال على المشروع الكبير",
+      "start": 168.58,
+      "end": 171.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الهو project 2 مع يونيهانز",
+      "start": 171.58,
+      "end": 173.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بالجامعة كنت أنا leader ل Google development group",
+      "start": 173.58,
+      "end": 178.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "كنا نعطي سيشنز وهكاثونز في مجال الـ IT نعطي سيشنز",
+      "start": 178.58,
+      "end": 184.96,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنا certified AWS AI practitioner",
+      "start": 185.0,
+      "end": 189.32,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وحاليا تركيزي في فوكس ميلي على",
+      "start": 189.32,
+      "end": 194.36,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "deep learning و machine learning",
+      "start": 194.36,
+      "end": 197.57999999999998,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ومن جديد بلشت أتوجه للألمز والأجنتك AI",
+      "start": 197.57999999999998,
+      "end": 201.56,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "نايش نايش الله يعطيك العافية يا رب",
+      "start": 201.56,
+      "end": 206.47,
+      "speaker": "SPEAKER_01",
+      "confidence": 0.9441838276218448
+    },
+    {
+      "text": "نشر الله عنك",
+      "start": 206.47,
+      "end": 207.63,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.790697674418583
+    },
+    {
+      "text": "انا طبعا اثيومد انه احمد عرفك علي وقالك انه مين انا",
+      "start": 207.63,
+      "end": 215.56,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "فمشان هيك ما بلشت بالاستعلاف عرف عن نفسي اول شي",
+      "start": 215.56,
+      "end": 220.82,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.8038023112087771
+    },
+    {
+      "text": "او توصلنا من قبل",
+      "start": 220.82,
+      "end": 224.32,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9700178380306758
+    },
+    {
+      "text": "او توصلنا فمشان هيك انا ما بلشت عرف عن نفسي بالبداية",
+      "start": 224.32,
+      "end": 228.24,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.8232478578826765
+    },
+    {
+      "text": "ورحت دغري لحتى اسألك عن حالك",
+      "start": 228.24,
+      "end": 233.2,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.7425424586758846
+    },
+    {
+      "text": "طيب إذا إذا حكينا إنت حكيت لي إنك إنت توجهت للـ",
+      "start": 233.2,
+      "end": 243.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يعني فينا نحكي إنك إنت تركت الـ والـ",
+      "start": 243.77,
+      "end": 251.76999999999998,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ولا لسه عندك فوكس على هذه الأموال؟",
+      "start": 251.76999999999998,
+      "end": 255.76999999999998,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام، أكيد لم أترك مجال المدارس المتحدة والمدارس المدارس المدارس المدارس",
+      "start": 255.76999999999998,
+      "end": 261.27,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لأنهم لآن مفالدون وصوك طالبهم",
+      "start": 261.27,
+      "end": 265.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "زائد، لو نحكي عن أجنتك اي اي لو نبني مجال كامل",
+      "start": 265.77,
+      "end": 270.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وليس مثلاً مثلاً ألالأم زائد تولز",
+      "start": 270.77,
+      "end": 273.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حتى تولز هاي، أنت ممكن تستعمل مدارس المدارس المدارس المدارس المدارس المدارس",
+      "start": 273.77,
+      "end": 278.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لكي تأخذ المعرفات التي تدخلها الألالأم",
+      "start": 278.77,
+      "end": 282.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فأنت أصلاً فيك تدمج الاثنين مع بعض",
+      "start": 282.77,
+      "end": 284.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فلا لو اعتبرت ذلك لأنهم الاثنين فيك تربطهم مع بعض عشان تبني اشي أقوى",
+      "start": 284.77,
+      "end": 289.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلينا نقول",
+      "start": 289.77,
+      "end": 290.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ممتاز أبداً",
+      "start": 290.77,
+      "end": 292.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.8103448275862487
+    },
+    {
+      "text": "جميل",
+      "start": 292.77,
+      "end": 294.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسناً",
+      "start": 294.77,
+      "end": 296.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "طيب إذا سألتك مثلاً",
+      "start": 296.77,
+      "end": 299.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو بتقدر تقولي مثلاً إيش فيه",
+      "start": 299.77,
+      "end": 303.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "مطبخة مختلفة",
+      "start": 303.77,
+      "end": 305.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "مثلاً من أجنبات LLM",
+      "start": 305.77,
+      "end": 308.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "اه لنقول هل تجده مهم جدا؟",
+      "start": 308.77,
+      "end": 314.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ولماذا؟",
+      "start": 314.77,
+      "end": 318.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9408333333334304
+    },
+    {
+      "text": "هل يمكن استخدام الـ agentic AI في أي مواقع؟",
+      "start": 318.77,
+      "end": 324.77,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يمكنك أن تقول هذا، لكن أريد أن أقول المهم جدا",
+      "start": 324.77,
+      "end": 328.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أكثر مقنعة لإستخدام الـ agentic AI مقنعة",
+      "start": 328.77,
+      "end": 336.77,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "نحكي في بهذا الابليكيشن. تمام هو لو بدنا نطلع على الصورة العامة",
+      "start": 336.77,
+      "end": 345.68,
+      "speaker": null,
+      "confidence": 0.5244939098999687
+    },
+    {
+      "text": "للهدف منه دايماً",
+      "start": 345.68,
+      "end": 350.96000000000004,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وممكن انه نستبدل دور الانسان فيه. فلو بنا نفوت مثلاً معينة في",
+      "start": 350.96000000000004,
+      "end": 361.15999999999997,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلينا نقول مثلاً مجال",
+      "start": 361.15999999999997,
+      "end": 365.62,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلنا نقول",
+      "start": 366.02,
+      "end": 368.26,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بيانات الموظفين",
+      "start": 368.26,
+      "end": 369.8,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "متى بفوتوا متى بطلعوا",
+      "start": 369.8,
+      "end": 371.32,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو مثلا",
+      "start": 371.32,
+      "end": 373.68,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو مثلا",
+      "start": 373.68,
+      "end": 376.14,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "في مجال",
+      "start": 376.14,
+      "end": 377.18,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الـ Q&A مثلا أي شيء",
+      "start": 377.18,
+      "end": 380.22,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "في مجال",
+      "start": 380.22,
+      "end": 381.32,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "Basic أو الـ Agentic AI",
+      "start": 381.32,
+      "end": 383.92,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ممكن أن يجاوب عليه",
+      "start": 383.92,
+      "end": 385.1,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ويسرع الـ Process",
+      "start": 385.1,
+      "end": 386.68,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هنا دائما نحن نستعمله",
+      "start": 386.68,
+      "end": 388.38,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فخلنا نقول مثلاً بالـ HR System كثير بتوجهوا انهم ندخل فيه Identity AI",
+      "start": 388.38,
+      "end": 394.98,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو نقول مثلاً المشروع تبعي اللي أنا شغال عليه اسمه Price Pilot",
+      "start": 394.98,
+      "end": 399.06,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "احنا قاعدين نتمتع بـ Process تبعة الشراء للكستمر",
+      "start": 399.06,
+      "end": 403.24,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "تكون End to End",
+      "start": 403.24,
+      "end": 404.48,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بناحية اقتراح المنتجات",
+      "start": 404.48,
+      "end": 406.94,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "المساعدة بالطلب",
+      "start": 406.94,
+      "end": 409.24,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "حتى تتبع الطلب مع شركة النقل",
+      "start": 409.24,
+      "end": 412.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فا يس اذا يمكن ان انا ما فهمت السؤال كويس بس اذا بقدر اجاوب اشي انه",
+      "start": 412.54,
+      "end": 417.88,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9583318407496836
+    },
+    {
+      "text": "اي اشي انت فهمته صح وجاوبته صح. انا بصراحة يعني بالانسة اللي انت",
+      "start": 417.88,
+      "end": 424.78,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.841761353858867
+    },
+    {
+      "text": "حكيت. جميل جدا. وانت فتحت لي المجال للسؤال اللي انا كنت بيسأله",
+      "start": 424.78,
+      "end": 429.22,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "بعد هيك. واللي هو ازا بدي بدي منك مسلا تعطيني او",
+      "start": 429.22,
+      "end": 435.94,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "to describe",
+      "start": 435.94,
+      "end": 436.78,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "a project you worked with",
+      "start": 436.78,
+      "end": 440.32,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "in the same field",
+      "start": 440.32,
+      "end": 442.02,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "مثلا",
+      "start": 442.02,
+      "end": 443.44,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يعني",
+      "start": 443.44,
+      "end": 444.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "project فيه",
+      "start": 444.0,
+      "end": 446.9,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "عم يعمل",
+      "start": 446.9,
+      "end": 448.76,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "process معينة",
+      "start": 448.76,
+      "end": 450.4,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "انت سبق واشتغلت عليه",
+      "start": 450.4,
+      "end": 452.02,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ويفضل انك",
+      "start": 452.02,
+      "end": 454.76,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "to dive deep",
+      "start": 454.76,
+      "end": 456.28,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "بالتكنولوجيز اللي انت استخدمتها",
+      "start": 456.28,
+      "end": 459.2,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "في هذا البروجيكت",
+      "start": 459.2,
+      "end": 460.72,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "او",
+      "start": 460.72,
+      "end": 461.56,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلينا نحكي",
+      "start": 461.56,
+      "end": 464.28,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "البروزيس في كل مكان، فالفلو الخاص بالبروجيكت، أعني كم تستطيع تقريب البروجيكت، أخبرني بشكل بزناً وفقًا تقنيًا",
+      "start": 464.28,
+      "end": 476.28,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام، خلانا نقول نبلش أول شي بالصورة العامة والجنرال هو اسم الـ Project Price Pilot",
+      "start": 476.28,
+      "end": 484.68,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هو عبارة عن agentic AI multi agent بساعد الـ business owner أولاً أنه يأتمت عملية التواصل مع الزبون ومساعدته في الطلب أو الشراء",
+      "start": 484.68,
+      "end": 498.48,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "زائد أنه يأتمت عملية الشراء حتى بعد ما يخلص الطلب مع الشركات الشاحن وكذا",
+      "start": 498.48,
+      "end": 505.68,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فخلنا نقول الفكرة العامة إنه يفهم الزبون إيش بده يشتري",
+      "start": 505.68,
+      "end": 512.1800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9433288160650519
+    },
+    {
+      "text": "يدخله عالداتابيس أو خلنا نقول نسجل بيانات الزبون عنا كـ unique",
+      "start": 512.1800000000001,
+      "end": 517.1800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "شو اشترى، شو بفضل، شو كذا",
+      "start": 517.1800000000001,
+      "end": 520.1800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وهذا الـ agent بيرجع المعلومات اللي درسها وفهمها من الـ customers اللي اتعامل معهم",
+      "start": 520.1800000000001,
+      "end": 527.6800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بيرجعها كـ insights للـ business owner عشان يقدر يحسن المشروع تبعه",
+      "start": 527.6800000000001,
+      "end": 533.6800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "من ناحية Adjustment للPrices",
+      "start": 533.6800000000001,
+      "end": 536.6800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "من ناحية لو بدي يعمل Marketing",
+      "start": 536.6800000000001,
+      "end": 539.6800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو خلنا نقول يستهدف فئة معينة من الزبائن",
+      "start": 539.6800000000001,
+      "end": 544.6800000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هاي الصورة العامة",
+      "start": 546.0,
+      "end": 547.5,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لو نفوت deeply وtechnically",
+      "start": 547.5,
+      "end": 550.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنا استعملت 6 agents للمشروع",
+      "start": 550.0,
+      "end": 553.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أوكي؟",
+      "start": 553.0,
+      "end": 554.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.8797595190381385
+    },
+    {
+      "text": "أول إشي بيكون ال chat agent",
+      "start": 554.0,
+      "end": 556.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "طبعاً كل ال project مبني على",
+      "start": 556.0,
+      "end": 558.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "langchain و langgraph",
+      "start": 558.0,
+      "end": 560.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أكيد langchain هي framework للاستعمال",
+      "start": 560.0,
+      "end": 563.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "LLMs زائد tools تبعتها",
+      "start": 563.0,
+      "end": 566.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "في كثير tools جاهزة ممكن تستعملها",
+      "start": 566.0,
+      "end": 568.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "سأجمعهم الـagent",
+      "start": 568.0,
+      "end": 570.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الـLangrath",
+      "start": 570.0,
+      "end": 572.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "سأكتبني الـGraph",
+      "start": 572.0,
+      "end": 574.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو الـPlan",
+      "start": 574.0,
+      "end": 576.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "كيف ستمشي الـProcess مع كل agent",
+      "start": 576.0,
+      "end": 578.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "سنبدأ بالـChat agent",
+      "start": 578.0,
+      "end": 580.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "من اسمه",
+      "start": 580.0,
+      "end": 582.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "سيكون من يتواصل مع الزبون",
+      "start": 582.0,
+      "end": 584.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "سيكون الـOrchestrator",
+      "start": 584.0,
+      "end": 586.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو الـHead",
+      "start": 586.0,
+      "end": 588.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "للـProcess كاملة",
+      "start": 588.0,
+      "end": 590.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا الـChat agent",
+      "start": 590.0,
+      "end": 592.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أكيد",
+      "start": 592.0,
+      "end": 594.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فيه Memory",
+      "start": 594.0,
+      "end": 596.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهم السياق و تذكر الزبون ما شراءه و ما تفضيلاته و ما معلوماته",
+      "start": 596.0,
+      "end": 602.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فيه الـ Intent Layer من ناحية أنه لو كتب الزبون كثير أشياء مثلا أنا مش متأكد أو أنا مش حاب أو أنا مهتم بهذا",
+      "start": 602.0,
+      "end": 612.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هو من حاله يفهم الـ Intentions تبعه الزبون و بناء عليها يأتي و يأخذ القرار",
+      "start": 612.0,
+      "end": 617.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.8832565284178393
+    },
+    {
+      "text": "القرار هو الـ Routing لمن و أي agent أود أن أوجه الـ task",
+      "start": 617.0,
+      "end": 623.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام؟ فإحنا هسا صار عندنا الـ Head Chat Agent وفي عندنا أكثر من agents موجودين",
+      "start": 623.0,
+      "end": 628.76,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلانا نقول نبلش إنو الزبون بده يشوف إنت شو عندك products أو شو بدك أشياء متوفرة عندك",
+      "start": 628.76,
+      "end": 636.26,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هو أنا بفهم الـ intent تبعت الـ user وبيعمل routing لإيش؟ للـ agent الثاني",
+      "start": 636.26,
+      "end": 641.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "اللي هو Recommendation Agent هذا Recommendation Agent مربوط في الـ database أنا استعمل شخصياً Supabase",
+      "start": 641.64,
+      "end": 648.84,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذه هي بيانات المنتجات التي تحتوي عليها",
+      "start": 648.84,
+      "end": 654.1,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهو يقوم بعمل راك وفتشنج للمعلومات أو المنتجات التي تحتوي عليها",
+      "start": 654.1,
+      "end": 661.46,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ولم يعطيك الإجابة كتول مثل هذا الموجود عليها",
+      "start": 661.46,
+      "end": 666.2,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهو يقوم بعمل راوتنج للتجميع مع المتجمعات لتفهم ما هي المنتجات التي تحتوي عليها وما هي المنتجات التي تحتوي عليها",
+      "start": 666.2,
+      "end": 675.3,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وبناء عليها يقوم بإعطاء إجابة مختلفة",
+      "start": 675.3,
+      "end": 678.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا من ناحية الـ Recommendation",
+      "start": 678.04,
+      "end": 681.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهو اقترح عليه المنتجات ورجع شو عنده ويمكن أن يساعده",
+      "start": 681.04,
+      "end": 684.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا هو أول خطوة",
+      "start": 684.54,
+      "end": 687.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بعد ذلك يقرر أن يريد أن يشتري",
+      "start": 687.04,
+      "end": 689.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هنا يحوله إلى الـ Agent الثالث",
+      "start": 689.54,
+      "end": 692.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وهو Order Agent",
+      "start": 692.04,
+      "end": 693.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا الـ Agent يوجد فيه أكثر من Tool",
+      "start": 693.54,
+      "end": 696.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أطلق عني هنا",
+      "start": 696.04,
+      "end": 698.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فاتح الـ Project",
+      "start": 698.04,
+      "end": 700.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الـ Order Agent",
+      "start": 700.04,
+      "end": 702.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يوجد فيه 2 Tools",
+      "start": 702.54,
+      "end": 704.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "التول الأولى أنه Order Creation بيجي بيحكي لك أعطيني التفاصيل لك مثل الاسم الإيميل نوع البرودكت اللي بدك إياه الـ SKU تبعه",
+      "start": 704.54,
+      "end": 715.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بعد ما زبون يعطي كل هاي الـ Answers خلص بيجي بسحب الـ Order Agent بيعمل Calling",
+      "start": 715.54,
+      "end": 725.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هاللللسة كميته موجودة. اذا يس خلاص بيتم العملية وبعمل للأردر.",
+      "start": 729.54,
+      "end": 736.26,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام? وبيجي بدي هذا لتيبل جديد. آآ اللي هو خلنا نقول. هذا",
+      "start": 736.26,
+      "end": 744.06,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا الـ Unique Customer، ما هو الطلب، ما هو أردنه، و...",
+      "start": 744.06,
+      "end": 749.02,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يعني باقي تفاصيل الأردن.",
+      "start": 749.02,
+      "end": 752.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "نعم",
+      "start": 752.58,
+      "end": 753.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "جميل",
+      "start": 754.5,
+      "end": 755.5,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هل تريد التواصل؟",
+      "start": 756.76,
+      "end": 757.76,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "باختصار، بعد ذلك سأعود للـ chat agent",
+      "start": 758.46,
+      "end": 762.5,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "و سأقول لك أننا قمنا بخلص المجال",
+      "start": 762.5,
+      "end": 764.26,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الأخير الذي يوجد فيه هو الـ logistic agent",
+      "start": 764.26,
+      "end": 766.26,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وهو صراحة أكثر تعقيداً",
+      "start": 767.72,
+      "end": 769.34,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وهو أن تريد أن تربطه مع شركة التوصيل",
+      "start": 769.6,
+      "end": 772.6,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنا حالياً استخدمت API وهو Aramex",
+      "start": 772.8,
+      "end": 775.14,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "و شركة ناقل",
+      "start": 775.44,
+      "end": 777.06,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لكن لم أكملها، لديها تعقيدات التي يمكنك تشغيلها",
+      "start": 777.64,
+      "end": 780.06,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "المهم فكرتها أن بعد أن توصلت طلب",
+      "start": 780.36,
+      "end": 782.44,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هو بيجي بوديه لشركات التوصيل وهنا فيه كثير من الناحية تتبع حالياً هو وين وشو صار فيه مع شركة النقل",
+      "start": 782.58,
+      "end": 794.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "في حال صار مشكلة بشركة النقل يجي يبدل الطلب من هاي الشركة لشركة ثانية يعطي للأخذ أنه أنت حالة الطلب تبعتك",
+      "start": 794.58,
+      "end": 805.08,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بدون ما تتغلب بدون مثلاً يكون حاطط موظفين أنهم يجاوبوا على الأسئلة هاي",
+      "start": 805.08,
+      "end": 810.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "لا كل شيء مستخدم ويصل الى المستخدم الفيدباك كامل",
+      "start": 810.58,
+      "end": 815.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وفي الـ agent الأخير وهو forecasting agent",
+      "start": 815.58,
+      "end": 819.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يجلب data مثلاً ما هي أحدث products موجودة في السوق",
+      "start": 819.58,
+      "end": 823.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ما الذي حدث so far مع البيع في تاريخ هذا الشهر",
+      "start": 823.58,
+      "end": 828.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يقوم بـ forecast وهذه المعلومات يخزنها في الـ database",
+      "start": 828.58,
+      "end": 833.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ويمكن أن نضيف إلى الـ agent الأخير أنه يقرأ هذه المعلومات",
+      "start": 833.58,
+      "end": 836.58,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ويعطي لصاحب المشروع. يعني. بسراحة اه كبيرة وقوية يعني.",
+      "start": 836.58,
+      "end": 848.58,
+      "speaker": null,
+      "confidence": 0.5070735573874414
+    },
+    {
+      "text": "تبعها اه امبريسنج. دي انا نحكي. انت جيت على على جزئية",
+      "start": 848.58,
+      "end": 857.1800000000001,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "واللي هو المسؤول عن صح؟",
+      "start": 857.1800000000001,
+      "end": 864.1800000000001,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "اذا طلبت منك مثلا خليلي الباقي كلهم على جنب",
+      "start": 864.1800000000001,
+      "end": 874.1,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9273234687055029
+    },
+    {
+      "text": "كيف بيشتغل هذا الاجنت؟",
+      "start": 874.1,
+      "end": 880.1,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9280028798848367
+    },
+    {
+      "text": "تمام حسن موضوع الراق موجود على اكثر من اجنت",
+      "start": 880.1,
+      "end": 887.73,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فكرته باختصار قصدك بتحب أشرح لك مفهوم الراق والإمبادنج وهيك؟ هذا قصدك؟",
+      "start": 887.73,
+      "end": 894.73,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يا ريت",
+      "start": 894.73,
+      "end": 896.73,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.8928571428576383
+    },
+    {
+      "text": "تمام مبدئياً أنت ليش إحنا هدفنا بنا نعمل فيكتور داتابيس؟ لأنه مو منطق أنه",
+      "start": 896.73,
+      "end": 904.73,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وكتبتها في البيانات ويظهر لك المواد",
+      "start": 908.2,
+      "end": 911.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وغير ذلك سيعطيك إراءة، ليس منطقاً",
+      "start": 911.0,
+      "end": 913.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "نحن هنا نضيف الفهم والمشابهة",
+      "start": 913.0,
+      "end": 918.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "من يفهم السياق العام من طلبات الزبون أو من البيانات الموجودة لدي",
+      "start": 918.0,
+      "end": 925.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهون احنا بنستعمل اشي اسمه embedding انه احنا بنحول من نصوص التكست اللي موجود عندنا لفكتورز هاي الفكتورز انه تحويلها من تكست لنوميريكال فيكتورز اسمها embedding",
+      "start": 925.0,
+      "end": 939.28,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهي بتكون embedding vectors والvector database هو اصلا عبارة عن مجموعة من الفكتورز للبيانات الموجودة عندك او للكويري تبع الزبون",
+      "start": 939.28,
+      "end": 951.96,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فاللي بصير انه احنا عندنا already vector database الزبون بيجي بيحكي الطلب",
+      "start": 951.96,
+      "end": 957.42,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "تابعه مثلا انا متردد شو بدي اشتريه و بدي مثلا امفكر بشوز فهون",
+      "start": 957.42,
+      "end": 962.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بيجي بعمل فيكتور اه بعمل امبادنج للجملة بحولها لفكتورز بعدين",
+      "start": 962.64,
+      "end": 968.1,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بيجي بعمل between الفكتور هاد والداتابيس اللي موجودة عندي",
+      "start": 968.1,
+      "end": 974.34,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فاخر نيجي نحكي انه بيجي بطلع متشابهين وبنال عليها بفهم هو",
+      "start": 974.34,
+      "end": 981.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9359474211874828
+    },
+    {
+      "text": "ويساعدنا في تفهم الوظائف الخاصة بنا ويساعدنا في تفهم الوظائف الخاصة بنا",
+      "start": 981.54,
+      "end": 996.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "ويساعدنا في تفهم ما في الوظائف الخاصة بنا",
+      "start": 996.54,
+      "end": 1002.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.8582616381850376
+    },
+    {
+      "text": "نفسه بيفهم الـ intention تبع الـ user",
+      "start": 1002.54,
+      "end": 1010.45,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسه هو من الـ ما هو من الـ",
+      "start": 1010.45,
+      "end": 1014.45,
+      "speaker": null,
+      "confidence": 0.3872123133515667
+    },
+    {
+      "text": "إذا جينا نحكي مثلا",
+      "start": 1014.45,
+      "end": 1018.45,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أول شي إيش يعني rag",
+      "start": 1018.45,
+      "end": 1022.45,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "rag اللي هو retrieval augmentation generation",
+      "start": 1022.45,
+      "end": 1026.45,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "مبدأها إني آجي أسحب أعمل retrieve",
+      "start": 1026.45,
+      "end": 1030.45,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "من الـ database وبعطيها للألأ الأمتاعي",
+      "start": 1030.45,
+      "end": 1034.45,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنه صار عنده عن الأشياء اللي بديها بدأ ما يكون.",
+      "start": 1034.45,
+      "end": 1041.22,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9768805581804408
+    },
+    {
+      "text": "بل الله معلش. لو على الله وعلى الله عزتك.",
+      "start": 1041.22,
+      "end": 1044.76,
+      "speaker": "SPEAKER_02",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام. الراقع برغم مبدأها أنه أنا باجي بسحب بعمل لمعلومات أنا بحتاجها من",
+      "start": 1044.76,
+      "end": 1055.56,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الداتابيس وباجي بعطيها للألألأم بحيث أنه تبعه يكون لهي الداتا اللي",
+      "start": 1055.56,
+      "end": 1062.94,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "انا بدي اياها. طيب كيف كيف مبدأ? مبدأ انك او طلعلي الفلانية بيجي",
+      "start": 1062.94,
+      "end": 1079.8,
+      "speaker": null,
+      "confidence": 0.6824267676125939
+    },
+    {
+      "text": "بيحولوا له هذا بيجي بعمل ستيميلاريتي سيرتش.",
+      "start": 1079.8,
+      "end": 1086.3600000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9665161775771245
+    },
+    {
+      "text": "اه تفوكس عليه هولي هو. انا بنهاية انا لما انا",
+      "start": 1092.0,
+      "end": 1101.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9527480726187272
+    },
+    {
+      "text": "converting into vectors, storing the vectors in the database.",
+      "start": 1101.0,
+      "end": 1105.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "Nothing happened.",
+      "start": 1105.0,
+      "end": 1106.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "فمتلي يعني ما صار شي لسه.",
+      "start": 1106.0,
+      "end": 1108.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "الفائدة من هاي التحويلة كل اياثها واللي هي similarity search.",
+      "start": 1108.0,
+      "end": 1112.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "احنا لما منحول الquestion لvectors ومنعمل similarity search مع الvectors اللي",
+      "start": 1112.0,
+      "end": 1118.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "already موجودين في الdatabase.",
+      "start": 1118.0,
+      "end": 1120.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "راح نجيب ال best match واللي هو اللي احنا بنسميه عادة انفراج ايش.",
+      "start": 1120.0,
+      "end": 1126.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "Top K.",
+      "start": 1126.0,
+      "end": 1127.0,
+      "speaker": "SPEAKER_01",
+      "confidence": 1.0
+    },
+    {
+      "text": "Top K.",
+      "start": 1127.0,
+      "end": 1128.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "LK nearest neighbor.",
+      "start": 1128.0,
+      "end": 1130.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسناً، ممتاز، ممتاز، ممتاز.",
+      "start": 1130.0,
+      "end": 1135.3,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسناً، ما هو الـ VectorStore؟",
+      "start": 1135.3,
+      "end": 1139.3,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ما هو استخدامه؟",
+      "start": 1139.3,
+      "end": 1145.02,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "هل تعرف مثالات عن الـ VectorStore؟",
+      "start": 1145.02,
+      "end": 1148.02,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أخبرني، ما هو استخدامك؟",
+      "start": 1148.02,
+      "end": 1151.02,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "PV Vector هو مجموعة موجودة في سوبا بيس.",
+      "start": 1151.02,
+      "end": 1155.02,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فيه أنواع ثانية فيه كروما دي بي بس بلاش فيه مدفوع فيه",
+      "start": 1155.02,
+      "end": 1177.02,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.8186612558228212
+    },
+    {
+      "text": "هناك الكثير من المفضلات",
+      "start": 1177.02,
+      "end": 1210.3600000000001,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.800871977687695
+    },
+    {
+      "text": "يعني وين ممكن نستخدم التول؟ كيف ممكن نستخدمها في الـagentic يعني؟",
+      "start": 1210.38,
+      "end": 1217.38,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "تمام، الفكرة العامة والبسيطة من كلمة التول مع الألم تاعي هي أني بدي أعمل task أو بدي أحصل على معلومات ما بقدر أجيبها من الألم اللي متدرب عداتها مثلاً قديمة",
+      "start": 1218.38,
+      "end": 1232.38,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الى اخره. فواحدة من استخدامات مثلا لما يكون انت بدك اولا مثلا اشي",
+      "start": 1232.38,
+      "end": 1241.74,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فانت مثلا لو بدك اشي من فهون انت لازم تستعمل",
+      "start": 1241.74,
+      "end": 1248.22,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "انواع كثير من تستعمل او عشان تجيب لك",
+      "start": 1248.22,
+      "end": 1256.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهذا هو أول مثال. ثاني مثال لو أريد أن أستعمل أكمل؟",
+      "start": 1256.54,
+      "end": 1264.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9272180011689286
+    },
+    {
+      "text": "آه، هذا كيف؟",
+      "start": 1264.0,
+      "end": 1266.0,
+      "speaker": "SPEAKER_02",
+      "confidence": 0.9856915739267502
+    },
+    {
+      "text": "ثاني مثال لما بدي استعمل data specific عندي من الـ database",
+      "start": 1266.0,
+      "end": 1272.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فأنت بتستعمل tool بتعمل fetching للـ data الموجودة هناك",
+      "start": 1272.0,
+      "end": 1277.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أكيد الآلة لما رح تحطوه أو ما رح يعرف كل شي موجود هناك",
+      "start": 1277.0,
+      "end": 1280.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.8804185351271016
+    },
+    {
+      "text": "فإحنا نستعمل لما يكون up to date لما بدنا معلومات sensitive أو specific",
+      "start": 1280.0,
+      "end": 1287.0,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9218531956461652
+    },
+    {
+      "text": "ثالثاً، أتوقع أن هذين هما الـ two cases",
+      "start": 1287.0,
+      "end": 1292.6,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنه data مش موجودة عند الألم أو data up to date",
+      "start": 1292.6,
+      "end": 1296.48,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9879688919416293
+    },
+    {
+      "text": "يعني باختصار",
+      "start": 1296.48,
+      "end": 1297.4,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "let's say it's an interface that gives the agent",
+      "start": 1297.4,
+      "end": 1301.84,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "or lets the agent to interact with external resource",
+      "start": 1301.84,
+      "end": 1307.08,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "or external system",
+      "start": 1307.08,
+      "end": 1308.88,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9950071326676228
+    },
+    {
+      "text": "whatever it was",
+      "start": 1308.88,
+      "end": 1310.36,
+      "speaker": null,
+      "confidence": 0.5783285538714327
+    },
+    {
+      "text": "yes",
+      "start": 1310.36,
+      "end": 1311.16,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.7006544502616686
+    },
+    {
+      "text": "database, website, another agent, another system, integration API",
+      "start": 1311.16,
+      "end": 1316.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "مهما كان يسمى.",
+      "start": 1316.04,
+      "end": 1318.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1318.04,
+      "end": 1320.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1320.04,
+      "end": 1322.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1322.04,
+      "end": 1324.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1324.04,
+      "end": 1326.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1326.04,
+      "end": 1328.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1328.04,
+      "end": 1330.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1330.04,
+      "end": 1332.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1332.04,
+      "end": 1334.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.7587719298244884
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1334.04,
+      "end": 1336.04,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1336.04,
+      "end": 1338.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9732374100715734
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1338.04,
+      "end": 1340.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1340.04,
+      "end": 1342.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يسمى هذا الموضوع.",
+      "start": 1342.04,
+      "end": 1344.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "انواع للاجنت واحدة منهم اللي هي الرياكت اللي هي زائد.",
+      "start": 1344.04,
+      "end": 1351.54,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9431747992588044
+    },
+    {
+      "text": "ياس. فكرة الاجنت هذا الرئيسية انه بيجي يعني انا مش بنذكر",
+      "start": 1351.54,
+      "end": 1359.7,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الفرق بينهم تقريبا. انه بعمل ريزنينج للأو بفكر قبل ما يتخذ",
+      "start": 1359.7,
+      "end": 1366.42,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "الاكشن. بعدين برجع للريزنينج. فهو دايما يعني بسلسلة دوامة",
+      "start": 1366.42,
+      "end": 1373.38,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "بين التفكير بعدين انه يتخذ بعد الاجتماع بيجي بيرجع للريزنينج",
+      "start": 1373.38,
+      "end": 1378.96,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "يشوف كيف كان الريسبونس تبعه.",
+      "start": 1378.96,
+      "end": 1380.64,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا ممتاز.",
+      "start": 1381.3,
+      "end": 1381.84,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "هذا ممتاز.",
+      "start": 1382.56,
+      "end": 1383.22,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسنا حسنا.",
+      "start": 1384.06,
+      "end": 1385.2,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "فهي ريزنينج واجتماع.",
+      "start": 1385.92,
+      "end": 1387.54,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حسنا.",
+      "start": 1393.71,
+      "end": 1394.3899999999999,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حكيت لي اشتغلت لانجشاين لانجراف صح؟",
+      "start": 1394.51,
+      "end": 1396.79,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "نعم.",
+      "start": 1397.3899999999999,
+      "end": 1397.8899999999999,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "جيد.",
+      "start": 1399.03,
+      "end": 1399.53,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "اشتغلت عملي عليهم.",
+      "start": 1401.65,
+      "end": 1402.95,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "قبقت عليهم.",
+      "start": 1403.57,
+      "end": 1404.33,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "نعم، هذا هو المشكلة التي لديها.",
+      "start": 1404.33,
+      "end": 1408.33,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.7698958116405579
+    },
+    {
+      "text": "ما هو مهاجمتي الأولى من المنطقة اللغية والنظام اللغوي؟",
+      "start": 1408.33,
+      "end": 1415.33,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "إذا جئنا باختصار، لماذا أستخدمها؟",
+      "start": 1415.33,
+      "end": 1419.33,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لأنها تسهل لك استخدام مختلف من الأنواع والأدوات التي تربط معها.",
+      "start": 1419.33,
+      "end": 1429.9,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "او يمكن انا مش فاهم عليك. لان يعني هي اشهر بتسهل عليك اه. طيب",
+      "start": 1429.9,
+      "end": 1438.3600000000001,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.993023187641092
+    },
+    {
+      "text": "بس بالنهاية هي يعني ان وجدت قبلها صح? فينا نحكي مسلا انه",
+      "start": 1438.3600000000001,
+      "end": 1446.8,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9727344609148609
+    },
+    {
+      "text": "ما كان فينا نسوي agent بدون langchain و langgraph",
+      "start": 1449.0,
+      "end": 1454.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "قبل ما تطلع الـ langchain و langgraph",
+      "start": 1454.25,
+      "end": 1457.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "المقصد أنه طالما هو موجود قبل الـ langchain و langgraph",
+      "start": 1457.25,
+      "end": 1462.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9540273920122798
+    },
+    {
+      "text": "و langchain و langgraph انوجدت علشانه",
+      "start": 1462.25,
+      "end": 1464.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "فالها main purpose",
+      "start": 1464.25,
+      "end": 1466.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنا بستخدمها علشان اشي معين",
+      "start": 1466.25,
+      "end": 1468.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو أشياء معينة مثلاً",
+      "start": 1468.25,
+      "end": 1471.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ما هي المفادم أو الأسباب التي تجعلني لا أذهب مع الـ Genetic AI بدون Language and Language Graph",
+      "start": 1471.25,
+      "end": 1483.25,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "يمكن السبب اللي بخطر ع بالي انه نفس مبدأ انه احنا ليش نستخدم تنسر فلو و باي تورت بدل ما نكتب اوار مشين ليرنينج و ديب ليرنينج فرنس كراتش",
+      "start": 1483.25,
+      "end": 1497.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.9493986101485119
+    },
+    {
+      "text": "لانهم اواردي فيهم ليرنينج بتسهل علينا البروسس او بتسهل علينا فيه اشياء اواردي فونكشنز جاهزة بتوفر علينا العناء بدل انه نكتب فرنس كراتش",
+      "start": 1497.04,
+      "end": 1510.04,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "فممكن نفس المبدأ انه بدل مثلا ما اكتب كثير تفاصيل انا ممكن لا",
+      "start": 1510.04,
+      "end": 1517.3,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "احط تاعت مثلا وحط مع تاعة الموديل وخلص جهزة.",
+      "start": 1517.3,
+      "end": 1530.8,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلينا نقول انه بوفر عناء اني ابلش كل شيء.",
+      "start": 1530.8,
+      "end": 1534.52,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "انا كثير حبيت الانسة بصراحة.",
+      "start": 1534.52,
+      "end": 1540.52,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9201372683596603
+    },
+    {
+      "text": "طيب الله يعطيك الف عافية ان شاء الله ما كنت عابتك ومللتك بالاسئلة اللي سألتكها كثير وراء بعضهم.",
+      "start": 1540.52,
+      "end": 1554.89,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "كثير انبسط باجاباتك وبالشات وذيوب بصراحة.",
+      "start": 1554.89,
+      "end": 1562.89,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9068479355488371
+    },
+    {
+      "text": "وحبيت الأجوبة",
+      "start": 1562.89,
+      "end": 1565.75,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "اللي انت جاوتها",
+      "start": 1565.75,
+      "end": 1566.61,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "والطريقة اللي انت جاوت فيها",
+      "start": 1566.61,
+      "end": 1568.65,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لحد هون",
+      "start": 1568.65,
+      "end": 1572.03,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "أنا من عندي ان شاء الله الأمور تمام",
+      "start": 1572.03,
+      "end": 1573.87,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "بنتواصل معك",
+      "start": 1573.87,
+      "end": 1576.15,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "خلال الأيام الجاية",
+      "start": 1576.15,
+      "end": 1577.35,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "ان شاء الله تعالى",
+      "start": 1577.35,
+      "end": 1579.95,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا كتير حمزة",
+      "start": 1580.67,
+      "end": 1584.13,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حمزة ناصر",
+      "start": 1584.13,
+      "end": 1585.71,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "حمزة ناصر",
+      "start": 1585.71,
+      "end": 1586.67,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا كتير",
+      "start": 1586.67,
+      "end": 1587.91,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "الله يعطيك ألف عافية يا رب",
+      "start": 1587.91,
+      "end": 1589.29,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "وان شاء الله يكون في بينا شغل",
+      "start": 1589.29,
+      "end": 1592.45,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "بإذن الله لقدام",
+      "start": 1592.45,
+      "end": 1593.47,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "بتمنى يعني",
+      "start": 1593.47,
+      "end": 1595.51,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "فإن شاء الله خير",
+      "start": 1595.51,
+      "end": 1597.95,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا لألك",
+      "start": 1597.95,
+      "end": 1599.41,
+      "speaker": null,
+      "confidence": 0.6315498591994124
+    },
+    {
+      "text": "يعطيك ألف عافية",
+      "start": 1599.41,
+      "end": 1600.91,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "وإن شاء الله",
+      "start": 1600.91,
+      "end": 1604.19,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.9450509194813091
+    },
+    {
+      "text": "في شيء أسئلة",
+      "start": 1604.19,
+      "end": 1606.23,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.7231517369219355
+    },
+    {
+      "text": "بتحب تسألها",
+      "start": 1606.23,
+      "end": 1607.83,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "لا لا",
+      "start": 1607.83,
+      "end": 1608.97,
+      "speaker": null,
+      "confidence": 0.5650158824513132
+    },
+    {
+      "text": "أول شيء حاب أشكرك شكرا لوقتك",
+      "start": 1608.97,
+      "end": 1612.27,
+      "speaker": "SPEAKER_00",
+      "confidence": 0.7727292605063907
+    },
+    {
+      "text": "وحتى شكرا لأسئلتك",
+      "start": 1612.27,
+      "end": 1614.43,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "إنها فعلا دقيقة",
+      "start": 1614.43,
+      "end": 1616.07,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وبتبين مين الفاهم",
+      "start": 1616.07,
+      "end": 1617.91,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "أو مين دارس الموضوع أو لا",
+      "start": 1617.91,
+      "end": 1619.95,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "وكثير استمتعت",
+      "start": 1619.95,
+      "end": 1622.19,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا لوقتك",
+      "start": 1622.19,
+      "end": 1623.05,
+      "speaker": "SPEAKER_00",
+      "confidence": 1.0
+    },
+    {
+      "text": "شكرا لك",
+      "start": 1623.05,
+      "end": 1624.29,
+      "speaker": "SPEAKER_03",
+      "confidence": 1.0
+    },
+    {
+      "text": "الله يعطيك الف عافية يا رب. الله يعطيك. و.",
+      "start": 1624.86,
+      "end": 1631.0,
+      "speaker": "SPEAKER_03",
+      "confidence": 0.7287082647327139
+    }
+  ],
+  "metadata": {
+    "audio_file": "C:\\Users\\ASUS\\AppData\\Local\\Temp\\tmptqy2eyqf\\AI Engineer Interview-20250612_102635-Meeting Recording.mp4",
+    "pipeline_version": "1.0.0",
+    "confidence_threshold": 0.7,
+    "language": "auto",
+    "total_segments": 342
+  }
+}

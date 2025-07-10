@@ -71,3 +71,8 @@ pyannote.metrics==3.2.1
 speechbrain==0.5.16
 asteroid-filterbanks==0.4.0
 torch-audiomentations==0.11.1
+
+# FastAPI dependencies for API server
+fastapi==0.115.6
+uvicorn==0.32.1
+python-multipart==0.0.20

@@ -8,13 +8,14 @@ import os
 import sys
 import time
 import warnings
+import csv
+import json
 from pathlib import Path
 from typing import Dict, List, Tuple, Optional
+from datetime import datetime
 
 # Suppress deprecation warnings for cleaner output
 warnings.filterwarnings("ignore", category=UserWarning, module="pyannote")
-
-print("🎭 Speaker Diarizer - Step 2: HuggingFace Authentication")
 
 def get_hf_token():
     """Get HuggingFace token from environment or user input"""
@@ -123,9 +124,6 @@ def test_basic_diarization(pipeline, audio_file):
     
     print(f"🎯 Testing diarization on: {audio_file}")
     
-    import csv
-    import json
-    from datetime import datetime
     log_file = f"diarization_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
     # For unfiltered diarization
     unfiltered_segments = []
