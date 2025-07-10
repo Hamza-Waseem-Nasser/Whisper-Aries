@@ -18,6 +18,7 @@ from final_optimized_transcriber import OptimizedParallelTranscriber
 from speaker_diarizer import get_hf_token
 from conversation_analyzer import ConversationAnalyzer
 from conversation_renderer import render_html, render_json, render_srt
+from meeting_analyzer import analyze_meeting
 
 
 def main():
@@ -94,10 +95,18 @@ def main():
     }
     formats = [f.strip() for f in args.formats.split(',')]
     base = os.path.splitext(os.path.basename(args.audio_file))[0]
+
     if 'html' in formats:
         render_html(aligned, os.path.join(args.output_dir, f'{base}.html'), metadata)
     if 'json' in formats:
-        render_json(aligned, os.path.join(args.output_dir, f'{base}.json'), metadata)
+        json_path = os.path.join(args.output_dir, f'{base}.json')
+        render_json(aligned, json_path, metadata)
+        # Automatically run LLM meeting analysis on the generated JSON
+        try:
+            print("\n[4/4] Running LLM meeting analysis (Gemini)...")
+            analyze_meeting(json_path)
+        except Exception as e:
+            print(f"⚠️ LLM meeting analysis failed: {e}")
     if 'srt' in formats:
         render_srt(aligned, os.path.join(args.output_dir, f'{base}.srt'))
     print(f"Outputs written to {args.output_dir}")
